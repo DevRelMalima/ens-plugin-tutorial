@@ -1,0 +1,12 @@
+{
+  "name": "ens-web3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "@namespace-ens/web3-plugin-ens": "^1.0.9",
+    "dotenv": "^16.4.5",
+    "web3": "^4.14.0"
+  }
+}

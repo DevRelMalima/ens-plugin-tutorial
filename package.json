@@ -1,0 +1,17 @@
+{
+  "name": "ens-web3-tutorial",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js"
+  },
+  "dependencies": {
+    "@namespace-ens/web3-plugin-ens": "^1.0.9",
+    "web3": "^4.13.0"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.6.3"
+  }
+}
